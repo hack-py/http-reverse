@@ -6,4 +6,4 @@ prerequisites knowledge
 
 2)cgi module
 
-note: in my htcli you should replace your ip with yours
+note: in my htcli.py you should replace your ip with yours
